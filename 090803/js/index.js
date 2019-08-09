@@ -125,7 +125,6 @@
           }
         }
         hero.draw();
-        console.log('this.rect', this.rect);
       },
       /**
        * 清除画布上元素
